@@ -8,15 +8,23 @@
 
 <p align="center">
   🎓 <b>Student at University of Science – VNU-HCM (HCMUS)</b><br>
-  💻 <b>Second-year Information Technology major</b><br>
+  🛡️ <b>Cybersecurity Major | Aspiring SOC Analyst</b><br>
   🌏 <b>Based in Ho Chi Minh City, Vietnam</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber_Security-E94E32?style=for-the-badge&logo=pre-commit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <a href="https://github.com/tofan0810">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tofan0810/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/nguyen.toan.631296">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:tn421015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -38,8 +46,10 @@ Currently, I am heavily focused on **Information Security**, specifically traini
 
 ---
 
-## 🛠️ Security & Tech Stack
-### Technologies
+<h3>
+  <img width="18px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+  Technologies
+</h3>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kali-linux&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-black?style=flat&logo=microsoft&logoColor=0089D6)
@@ -68,7 +78,10 @@ Currently, I am heavily focused on **Information Security**, specifically traini
 | 🎥 **Main Channel** | Tech Tutorials & Security | [Subscribe](https://www.youtube.com/@NguyenToan_dev) |
 | 🏓 **Side Channel** | Table Tennis Passion | [Watch Now](https://www.youtube.com/@TTlovers-0810) |
 
----
+### 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tofan0810&theme=rising-sun&date_format=j%2Fn%5B%2FY%5D&border=e78e42&currStreakNum=e78e42&sideNums=e78e42&dates=fef7ee)
+
 
 ## 📫 Connect with me
 
@@ -84,5 +97,5 @@ Currently, I am heavily focused on **Information Security**, specifically traini
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Analyzing+threats+one+log+at+a+time...;Solving+CTFs+and+building+apps!+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Let's+build+cool+stuff+together!+%F0%9F%9A%80" />
 </p>
