@@ -39,7 +39,7 @@ Currently, I am heavily focused on **Information Security**, specifically traini
 
 ## 🛡️ Cybersecurity & Projects
 
-- 🚀 **SOC Lab:** Designing a security monitoring system using **Microsoft Sentinel** to detect and respond to threats.
+- 🚀 **SOC Lab:** Designing a security monitoring system using **Wazuh** to detect and respond to threats.
 - 🚩 **CTF Journey:** Actively solving challenges on picoCTF. Check out my writeups here: [tofan0810/picoCTF-writeups](https://github.com/tofan0810/picoCTF-writeups).
 - 📱 **TravelTogether:** A complete Android smart tourism application built with Flutter. [View Repository](https://github.com/24127137/TravelTogether).
 - 🐧 **System Internals:** Exploring OS mechanisms through **xv6** and low-level system programming.
