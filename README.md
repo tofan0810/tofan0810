@@ -8,7 +8,7 @@
 
 <p align="center">
   🎓 <b>Student at University of Science – VNU-HCM (HCMUS)</b><br>
-  🛡️ <b>Cybersecurity Major | Aspiring SOC Analyst</b><br>
+  🛡️ <b>Information Technology Major | Aspiring SOC Analyst</b><br>
   🌏 <b>Based in Ho Chi Minh City, Vietnam</b>
 </p>
 
