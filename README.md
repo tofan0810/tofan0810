@@ -31,7 +31,7 @@
 
 ## 💡 About Me
 
-Hello! I'm **Nguyen Khanh Toan**, a second-year Information Technology student at **HCMUS**. 
+Hello! I'm **Nguyen Khanh Toan**, a third-year Information Technology student at **HCMUS**. 
 
 Currently, I am heavily focused on **Information Security**, specifically training to become a **SOC Analyst**. I enjoy building defensive lab environments and solving security challenges. Besides security, I have experience in cross-platform mobile development.
 
